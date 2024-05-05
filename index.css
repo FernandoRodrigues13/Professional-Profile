@@ -1,0 +1,46 @@
+.nome {
+  background-color:#f0f0f0;
+  padding: 30px;
+  
+}
+
+.sumario {
+  background-color: white;
+  padding: 20px;
+}
+
+.experiencias {
+  background-color: #f0f0f0;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+
+.educacao {
+  background-color: #f0f0f0;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+
+.projetos {
+  background-color: #f0f0f0;
+  padding: 20px;
+  margin-bottom: 20px;
+
+}
+
+.educacao+.projetos {
+  margin-top: 20px;
+}
+
+.foto {  
+  width: 150px;
+  margin: 10px;
+  align-items: center;
+  justify-content: center;
+  padding: 3px;
+  background-color: darkslategrey;
+  border-radius: 10px;
+  
+}
